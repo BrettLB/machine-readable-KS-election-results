@@ -1,0 +1,4947 @@
+{
+    "data": {
+        "Attorney General": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "A.J. Kotich", 
+                        "name_components": {
+                            "first": "A.J.", 
+                            "last": "Kotich"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 58294
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Derek Schmidt", 
+                        "name_components": {
+                            "first": "Derek", 
+                            "last": "Schmidt"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 220581
+                }
+            ]
+        }, 
+        "Commissioner of Insurance": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Dennis Anderson", 
+                        "name_components": {
+                            "first": "Dennis", 
+                            "last": "Anderson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 58590
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Beverly Gossage", 
+                        "name_components": {
+                            "first": "Beverly", 
+                            "last": "Gossage"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 23.0, 
+                    "votes": 55306
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "David J. Powell", 
+                        "name_components": {
+                            "first": "David", 
+                            "last": "Powell", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 16.8, 
+                    "votes": 40388
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ken Selzer", 
+                        "name_components": {
+                            "first": "Ken", 
+                            "last": "Selzer"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 27.0, 
+                    "votes": 64911
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Clark Shultz", 
+                        "name_components": {
+                            "first": "Clark", 
+                            "last": "Shultz"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 22.7, 
+                    "votes": 54565
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "John M. Toplikar", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Toplikar", 
+                            "middle": "M."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 10.3, 
+                    "votes": 24773
+                }
+            ]
+        }, 
+        "District Court Judge 013": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jan Satterfield", 
+                        "name_components": {
+                            "first": "Jan", 
+                            "last": "Satterfield"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 8021
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Mike Ward", 
+                        "name_components": {
+                            "first": "Mike", 
+                            "last": "Ward"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 8052
+                }
+            ]
+        }, 
+        "District Court Judge 014": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "F. William Cullins", 
+                        "name_components": {
+                            "first": "F.", 
+                            "last": "Cullins", 
+                            "middle": "William"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3320
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jeffrey D. Gossard", 
+                        "name_components": {
+                            "first": "Jeffrey", 
+                            "last": "Gossard", 
+                            "middle": "D."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 41.4, 
+                    "votes": 1645
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Robert W. Lattin", 
+                        "name_components": {
+                            "first": "Robert", 
+                            "last": "Lattin", 
+                            "middle": "W."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 18.4, 
+                    "votes": 731
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Larry Markle", 
+                        "name_components": {
+                            "first": "Larry", 
+                            "last": "Markle"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.0, 
+                    "votes": 1588
+                }
+            ]
+        }, 
+        "District Court Judge 016": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Michael J. Giardine", 
+                        "name_components": {
+                            "first": "Michael", 
+                            "last": "Giardine", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 45.6, 
+                    "votes": 2125
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Sidney R. Thomas", 
+                        "name_components": {
+                            "first": "Sidney", 
+                            "last": "Thomas", 
+                            "middle": "R."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 54.3, 
+                    "votes": 2529
+                }
+            ]
+        }, 
+        "District Court Judge 018": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Robb W. Rumsey", 
+                        "name_components": {
+                            "first": "Robb", 
+                            "last": "Rumsey", 
+                            "middle": "W."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 30445
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Gregory L. Waller", 
+                        "name_components": {
+                            "first": "Gregory", 
+                            "last": "Waller", 
+                            "middle": "L."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 7316
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Linda Kirby", 
+                        "name_components": {
+                            "first": "Linda", 
+                            "last": "Kirby"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 47.6, 
+                    "votes": 17011
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Seth L. Rundle", 
+                        "name_components": {
+                            "first": "Seth", 
+                            "last": "Rundle", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 52.3, 
+                    "votes": 18704
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ben Burgess", 
+                        "name_components": {
+                            "first": "Ben", 
+                            "last": "Burgess"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 28413
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Tim Lahey", 
+                        "name_components": {
+                            "first": "Tim", 
+                            "last": "Lahey"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 27809
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "David J. Kaufman", 
+                        "name_components": {
+                            "first": "David", 
+                            "last": "Kaufman", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 28359
+                }
+            ]
+        }, 
+        "District Court Judge 018 17": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John J. (Joe) Kisner", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Kisner", 
+                            "middle": "J.", 
+                            "nickname": "Joe"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 6969
+                }
+            ]
+        }, 
+        "District Court Judge 018 18": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Faith AJ. Maughan", 
+                        "name_components": {
+                            "first": "Faith", 
+                            "last": "Maughan", 
+                            "middle": "AJ."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 26761
+                }
+            ]
+        }, 
+        "District Court Judge 018 19": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Michael Hoelscher", 
+                        "name_components": {
+                            "first": "Michael", 
+                            "last": "Hoelscher"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 62.6, 
+                    "votes": 22839
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Diane Sherwood", 
+                        "name_components": {
+                            "first": "Diane", 
+                            "last": "Sherwood"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 37.3, 
+                    "votes": 13607
+                }
+            ]
+        }, 
+        "District Court Judge 019 03": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "LaDonna L. Lanning", 
+                        "name_components": {
+                            "first": "LaDonna", 
+                            "last": "Lanning", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3162
+                }
+            ]
+        }, 
+        "District Court Judge 020 01": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Ron Svaty", 
+                        "name_components": {
+                            "first": "Ron", 
+                            "last": "Svaty"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1032
+                }
+            ]
+        }, 
+        "District Court Judge 022 01": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "James A. Patton", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Patton", 
+                            "middle": "A."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 4024
+                }
+            ]
+        }, 
+        "District Court Judge 024": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Bruce T. Gatterman", 
+                        "name_components": {
+                            "first": "Bruce", 
+                            "last": "Gatterman", 
+                            "middle": "T."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2535
+                }
+            ]
+        }, 
+        "District Court Judge 026 01": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Bradley E. Ambrosier", 
+                        "name_components": {
+                            "first": "Bradley", 
+                            "last": "Ambrosier", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3680
+                }
+            ]
+        }, 
+        "District Court Judge 026 03": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Linda Gilmore", 
+                        "name_components": {
+                            "first": "Linda", 
+                            "last": "Gilmore"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3753
+                }
+            ]
+        }, 
+        "District Court Judge 027 01": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Trish Rose", 
+                        "name_components": {
+                            "first": "Trish", 
+                            "last": "Rose"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1484
+                }
+            ]
+        }, 
+        "District Court Judge 027 03": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Joseph L. McCarville III", 
+                        "name_components": {
+                            "first": "Joseph", 
+                            "last": "McCarville", 
+                            "middle": "L.", 
+                            "suffix": "III"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 4979
+                }
+            ]
+        }, 
+        "District Court Judge 029 03": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Delia Maria York", 
+                        "name_components": {
+                            "first": "Delia", 
+                            "last": "York", 
+                            "middle": "Maria"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 5729
+                }
+            ]
+        }, 
+        "District Court Judge 029 04": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "William P. Mahoney", 
+                        "name_components": {
+                            "first": "William", 
+                            "last": "Mahoney", 
+                            "middle": "P."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 6125
+                }
+            ]
+        }, 
+        "District Court Judge 029 05": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "J. Dexter Burdette", 
+                        "name_components": {
+                            "first": "J.", 
+                            "last": "Burdette", 
+                            "middle": "Dexter"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 6315
+                }
+            ]
+        }, 
+        "District Court Judge 029 06": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kate Lynch", 
+                        "name_components": {
+                            "first": "Kate", 
+                            "last": "Lynch"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 5973
+                }
+            ]
+        }, 
+        "District Court Judge 029 10": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Bill L. Klapper", 
+                        "name_components": {
+                            "first": "Bill", 
+                            "last": "Klapper", 
+                            "middle": "L."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 5628
+                }
+            ]
+        }, 
+        "District Court Judge 029 11": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Timothy L. Dupree", 
+                        "name_components": {
+                            "first": "Timothy", 
+                            "last": "Dupree", 
+                            "middle": "L."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 39.9, 
+                    "votes": 3320
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Courtney Mikesic", 
+                        "name_components": {
+                            "first": "Courtney", 
+                            "last": "Mikesic"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 34.8, 
+                    "votes": 2897
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "James T. Yoakum", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Yoakum", 
+                            "middle": "T."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 25.2, 
+                    "votes": 2100
+                }
+            ]
+        }, 
+        "District Court Judge 029 12": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Wesley K. Griffin", 
+                        "name_components": {
+                            "first": "Wesley", 
+                            "last": "Griffin", 
+                            "middle": "K."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 5817
+                }
+            ]
+        }, 
+        "District Court Judge 029 15": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Aaron T. Roberts", 
+                        "name_components": {
+                            "first": "Aaron", 
+                            "last": "Roberts", 
+                            "middle": "T."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 5710
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "District Magistrate Judge 017", 
+                        "name_components": {
+                            "last": "017", 
+                            "title": "District Magistrate Judge"
+                        }, 
+                        "party": null
+                    }, 
+                    "percent": 0.0, 
+                    "votes": 3
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Debra S. Anderson", 
+                        "name_components": {
+                            "first": "Debra", 
+                            "last": "Anderson", 
+                            "middle": "S."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 616
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "District Magistrate Judge 022", 
+                        "name_components": {
+                            "last": "022", 
+                            "title": "District Magistrate Judge"
+                        }, 
+                        "party": null
+                    }, 
+                    "percent": 0.0, 
+                    "votes": 3
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Scott Anson", 
+                        "name_components": {
+                            "first": "Scott", 
+                            "last": "Anson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 49.5, 
+                    "votes": 684
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Elizabeth Ensley Deiter", 
+                        "name_components": {
+                            "first": "Elizabeth", 
+                            "last": "Deiter", 
+                            "middle": "Ensley"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 50.4, 
+                    "votes": 697
+                }
+            ]
+        }, 
+        "District Magistrate Judge 023": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Gregory L. Gillespie", 
+                        "name_components": {
+                            "first": "Gregory", 
+                            "last": "Gillespie", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 44.8, 
+                    "votes": 242
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Dan Henry", 
+                        "name_components": {
+                            "first": "Dan", 
+                            "last": "Henry"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 19.8, 
+                    "votes": 107
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Dwight D. Tummons", 
+                        "name_components": {
+                            "first": "Dwight", 
+                            "last": "Tummons", 
+                            "middle": "D."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 35.3, 
+                    "votes": 191
+                }
+            ]
+        }, 
+        "Governor / Lt. Governor": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Paul Davis", 
+                        "name_components": {
+                            "first": "Paul", 
+                            "last": "Davis"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 66357
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Sam Brownback", 
+                        "name_components": {
+                            "first": "Sam", 
+                            "last": "Brownback"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 63.2, 
+                    "votes": 166687
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jennifer Winn", 
+                        "name_components": {
+                            "first": "Jennifer", 
+                            "last": "Winn"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 36.7, 
+                    "votes": 96907
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 001": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Brian Caswell", 
+                        "name_components": {
+                            "first": "Brian", 
+                            "last": "Caswell"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 585
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Michael Houser", 
+                        "name_components": {
+                            "first": "Michael", 
+                            "last": "Houser"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1184
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 002": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Adam J. Lusker Sr.", 
+                        "name_components": {
+                            "first": "Adam", 
+                            "last": "Lusker", 
+                            "middle": "J.", 
+                            "suffix": "Sr."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 760
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 003": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Julie Menghini", 
+                        "name_components": {
+                            "first": "Julie", 
+                            "last": "Menghini"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 600
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Charles (Chuck) Smith", 
+                        "name_components": {
+                            "first": "Charles", 
+                            "last": "Smith", 
+                            "nickname": "Chuck"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 986
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 004": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Lucas B Cosens", 
+                        "name_components": {
+                            "first": "Lucas", 
+                            "last": "Cosens", 
+                            "middle": "B"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 586
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Marty Read", 
+                        "name_components": {
+                            "first": "Marty", 
+                            "last": "Read"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1897
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 005": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Miranda Rickel", 
+                        "name_components": {
+                            "first": "Miranda", 
+                            "last": "Rickel"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 489
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Kevin Jones", 
+                        "name_components": {
+                            "first": "Kevin", 
+                            "last": "Jones"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1796
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 006": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Christy C. Levings", 
+                        "name_components": {
+                            "first": "Christy", 
+                            "last": "Levings", 
+                            "middle": "C."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 476
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jene Vickrey", 
+                        "name_components": {
+                            "first": "Jene", 
+                            "last": "Vickrey"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2385
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 007": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Richard J. Proehl", 
+                        "name_components": {
+                            "first": "Richard", 
+                            "last": "Proehl", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1272
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 008": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jodie Dietz", 
+                        "name_components": {
+                            "first": "Jodie", 
+                            "last": "Dietz"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 274
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Craig McPherson", 
+                        "name_components": {
+                            "first": "Craig", 
+                            "last": "McPherson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 55.7, 
+                    "votes": 1272
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Stacey L. Schlimmer", 
+                        "name_components": {
+                            "first": "Stacey", 
+                            "last": "Schlimmer", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 44.2, 
+                    "votes": 1010
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 009": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kent L. Thompson", 
+                        "name_components": {
+                            "first": "Kent", 
+                            "last": "Thompson", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 59.9, 
+                    "votes": 1524
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Chad E. VanHouden", 
+                        "name_components": {
+                            "first": "Chad", 
+                            "last": "VanHouden", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.0, 
+                    "votes": 1019
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 010": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John Wilson", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Wilson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 717
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Nicolas D. VanWyhe", 
+                        "name_components": {
+                            "first": "Nicolas", 
+                            "last": "VanWyhe", 
+                            "middle": "D."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 936
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 011": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jim Kelly", 
+                        "name_components": {
+                            "first": "Jim", 
+                            "last": "Kelly"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1994
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 012": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Eden Fuson", 
+                        "name_components": {
+                            "first": "Eden", 
+                            "last": "Fuson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 317
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Virgil Peck", 
+                        "name_components": {
+                            "first": "Virgil", 
+                            "last": "Peck"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2354
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 013": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Larry P. Hibbard", 
+                        "name_components": {
+                            "first": "Larry", 
+                            "last": "Hibbard", 
+                            "middle": "P."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2671
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 014": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Merlin Ring", 
+                        "name_components": {
+                            "first": "Merlin", 
+                            "last": "Ring"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 411
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Keith Esau", 
+                        "name_components": {
+                            "first": "Keith", 
+                            "last": "Esau"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1717
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 015": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Steve Wright", 
+                        "name_components": {
+                            "first": "Steve", 
+                            "last": "Wright"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 373
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Erin L. Davis", 
+                        "name_components": {
+                            "first": "Erin", 
+                            "last": "Davis", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1118
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 016": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Arthena Easterwood", 
+                        "name_components": {
+                            "first": "Arthena", 
+                            "last": "Easterwood"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 21.8, 
+                    "votes": 159
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Don McGuire", 
+                        "name_components": {
+                            "first": "Don", 
+                            "last": "McGuire"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 78.1, 
+                    "votes": 569
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Amanda Grosserode", 
+                        "name_components": {
+                            "first": "Amanda", 
+                            "last": "Grosserode"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 55.2, 
+                    "votes": 1552
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jameia Haines", 
+                        "name_components": {
+                            "first": "Jameia", 
+                            "last": "Haines"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 34.7, 
+                    "votes": 977
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ray J. Marshall", 
+                        "name_components": {
+                            "first": "Ray", 
+                            "last": "Marshall", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 9.9, 
+                    "votes": 279
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 017": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Larry Meeker", 
+                        "name_components": {
+                            "first": "Larry", 
+                            "last": "Meeker"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 541
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Brett M. Hildabrand", 
+                        "name_components": {
+                            "first": "Brett", 
+                            "last": "Hildabrand", 
+                            "middle": "M."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1915
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 018": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Cindy Neighbor", 
+                        "name_components": {
+                            "first": "Cindy", 
+                            "last": "Neighbor"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 698
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "John Rubin", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Rubin"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1810
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 019": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Patricia Stratton", 
+                        "name_components": {
+                            "first": "Patricia", 
+                            "last": "Stratton"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 775
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Stephanie Clayton", 
+                        "name_components": {
+                            "first": "Stephanie", 
+                            "last": "Clayton"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 67.6, 
+                    "votes": 2344
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jennifer Flood", 
+                        "name_components": {
+                            "first": "Jennifer", 
+                            "last": "Flood"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 32.3, 
+                    "votes": 1121
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 020": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Elizabeth Arnold", 
+                        "name_components": {
+                            "first": "Elizabeth", 
+                            "last": "Arnold"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 681
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Rob Bruchman", 
+                        "name_components": {
+                            "first": "Rob", 
+                            "last": "Bruchman"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2553
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 021": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Amy Bell", 
+                        "name_components": {
+                            "first": "Amy", 
+                            "last": "Bell"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 925
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Barbara Bollier", 
+                        "name_components": {
+                            "first": "Barbara", 
+                            "last": "Bollier"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 59.6, 
+                    "votes": 1819
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Neil Melton", 
+                        "name_components": {
+                            "first": "Neil", 
+                            "last": "Melton"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.3, 
+                    "votes": 1232
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 022": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Nancy Lusk", 
+                        "name_components": {
+                            "first": "Nancy", 
+                            "last": "Lusk"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 638
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Mike Jones", 
+                        "name_components": {
+                            "first": "Mike", 
+                            "last": "Jones"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1305
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 023": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Amber Versola", 
+                        "name_components": {
+                            "first": "Amber", 
+                            "last": "Versola"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 498
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Linda Gallagher", 
+                        "name_components": {
+                            "first": "Linda", 
+                            "last": "Gallagher"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1235
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 024": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jarrod Ousley", 
+                        "name_components": {
+                            "first": "Jarrod", 
+                            "last": "Ousley"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 673
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Brandon Hermreck", 
+                        "name_components": {
+                            "first": "Brandon", 
+                            "last": "Hermreck"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1088
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 025": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jennifer Robinson", 
+                        "name_components": {
+                            "first": "Jennifer", 
+                            "last": "Robinson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1138
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Melissa Rooker", 
+                        "name_components": {
+                            "first": "Melissa", 
+                            "last": "Rooker"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2141
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 026": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Cheron Tiffany", 
+                        "name_components": {
+                            "first": "Cheron", 
+                            "last": "Tiffany"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 294
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Larry L. Campbell", 
+                        "name_components": {
+                            "first": "Larry", 
+                            "last": "Campbell", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1468
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 027": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Theresa Hohl", 
+                        "name_components": {
+                            "first": "Theresa", 
+                            "last": "Hohl"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 302
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ray Merrick", 
+                        "name_components": {
+                            "first": "Ray", 
+                            "last": "Merrick"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2048
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 028": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jerry Lunn", 
+                        "name_components": {
+                            "first": "Jerry", 
+                            "last": "Lunn"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1623
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 029": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Heather Meyer", 
+                        "name_components": {
+                            "first": "Heather", 
+                            "last": "Meyer"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 599
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "James Eric Todd", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Todd", 
+                            "middle": "Eric"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1852
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 030": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Liz Dickinson", 
+                        "name_components": {
+                            "first": "Liz", 
+                            "last": "Dickinson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 421
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Randy Powell", 
+                        "name_components": {
+                            "first": "Randy", 
+                            "last": "Powell"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 55.7, 
+                    "votes": 1150
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ron Worley", 
+                        "name_components": {
+                            "first": "Ron", 
+                            "last": "Worley"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 44.2, 
+                    "votes": 912
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 031": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Louis E. Ruiz", 
+                        "name_components": {
+                            "first": "Louis", 
+                            "last": "Ruiz", 
+                            "middle": "E."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 619
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 032": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Pam Curtis", 
+                        "name_components": {
+                            "first": "Pam", 
+                            "last": "Curtis"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 430
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 033": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Tom Burroughs", 
+                        "name_components": {
+                            "first": "Tom", 
+                            "last": "Burroughs"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 908
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Sue Adams", 
+                        "name_components": {
+                            "first": "Sue", 
+                            "last": "Adams"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 752
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 034": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Valdenia C. Winn", 
+                        "name_components": {
+                            "first": "Valdenia", 
+                            "last": "Winn", 
+                            "middle": "C."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1111
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 035": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Broderick Henderson", 
+                        "name_components": {
+                            "first": "Broderick", 
+                            "last": "Henderson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1201
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 036": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kathy Wolfe Moore", 
+                        "name_components": {
+                            "first": "Kathy", 
+                            "last": "Moore", 
+                            "middle": "Wolfe"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2009
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Earl Freeman", 
+                        "name_components": {
+                            "first": "Earl", 
+                            "last": "Freeman"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 820
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 037": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Stan S. Frownfelter", 
+                        "name_components": {
+                            "first": "Stan", 
+                            "last": "Frownfelter", 
+                            "middle": "S."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 660
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 038": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jan Pringle", 
+                        "name_components": {
+                            "first": "Jan", 
+                            "last": "Pringle"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 451
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Willie Dove", 
+                        "name_components": {
+                            "first": "Willie", 
+                            "last": "Dove"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1676
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 039": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Vicki Hiatt", 
+                        "name_components": {
+                            "first": "Vicki", 
+                            "last": "Hiatt"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 391
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Charles Macheers", 
+                        "name_components": {
+                            "first": "Charles", 
+                            "last": "Macheers"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1364
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 040": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Linda Johnson", 
+                        "name_components": {
+                            "first": "Linda", 
+                            "last": "Johnson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 376
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "John Bradford", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Bradford"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1128
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 041": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Nancy D. Bauder", 
+                        "name_components": {
+                            "first": "Nancy", 
+                            "last": "Bauder", 
+                            "middle": "D."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 323
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Tony Barton", 
+                        "name_components": {
+                            "first": "Tony", 
+                            "last": "Barton"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 809
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 042": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Harold D. Fevurly Jr.", 
+                        "name_components": {
+                            "first": "Harold", 
+                            "last": "Fevurly", 
+                            "middle": "D.", 
+                            "suffix": "Jr."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 44.0, 
+                    "votes": 244
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Austin Lee Harris", 
+                        "name_components": {
+                            "first": "Austin", 
+                            "last": "Harris", 
+                            "middle": "Lee"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 55.9, 
+                    "votes": 310
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Connie O'Brien", 
+                        "name_components": {
+                            "first": "Connie", 
+                            "last": "O'Brien"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1322
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 043": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Caitlin Trujillo", 
+                        "name_components": {
+                            "first": "Caitlin", 
+                            "last": "Trujillo"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 294
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Bill Sutton", 
+                        "name_components": {
+                            "first": "Bill", 
+                            "last": "Sutton"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1363
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 044": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Barbara W. Ballard", 
+                        "name_components": {
+                            "first": "Barbara", 
+                            "last": "Ballard", 
+                            "middle": "W."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1113
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 045": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jeremy Ryan Pierce", 
+                        "name_components": {
+                            "first": "Jeremy", 
+                            "last": "Pierce", 
+                            "middle": "Ryan"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 23.8, 
+                    "votes": 449
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Tom", 
+                        "name_components": {
+                            "first": "Tom"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 76.1, 
+                    "votes": 1431
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 046": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Dennis \"Boog\" Highberger", 
+                        "name_components": {
+                            "first": "Dennis", 
+                            "last": "Highberger", 
+                            "nickname": "Boog"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 57.8, 
+                    "votes": 1004
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Abbie Hodgson", 
+                        "name_components": {
+                            "first": "Abbie", 
+                            "last": "Hodgson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 42.1, 
+                    "votes": 731
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "J. Douglas Robinson", 
+                        "name_components": {
+                            "first": "J.", 
+                            "last": "Robinson", 
+                            "middle": "Douglas"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 406
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 047": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Bob Sirridge", 
+                        "name_components": {
+                            "first": "Bob", 
+                            "last": "Sirridge"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 476
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ramon C. Gonzalez Jr.", 
+                        "name_components": {
+                            "first": "Ramon", 
+                            "last": "Gonzalez", 
+                            "middle": "C.", 
+                            "suffix": "Jr."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1826
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 048": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Sandy Ackerson", 
+                        "name_components": {
+                            "first": "Sandy", 
+                            "last": "Ackerson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 330
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Marvin Kleeb", 
+                        "name_components": {
+                            "first": "Marvin", 
+                            "last": "Kleeb"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1523
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 049": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Darnell Hunt", 
+                        "name_components": {
+                            "first": "Darnell", 
+                            "last": "Hunt"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 283
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Scott", 
+                        "name_components": {
+                            "first": "Scott"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 72.3, 
+                    "votes": 945
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "J.H. Wilson", 
+                        "name_components": {
+                            "first": "J.H.", 
+                            "last": "Wilson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 27.6, 
+                    "votes": 361
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 050": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Chris", 
+                        "name_components": {
+                            "first": "Chris"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 925
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Fred C. Patton", 
+                        "name_components": {
+                            "first": "Fred", 
+                            "last": "Patton", 
+                            "middle": "C."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 50.9, 
+                    "votes": 1698
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Josh", 
+                        "name_components": {
+                            "first": "Josh"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 49.0, 
+                    "votes": 1636
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 051": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Ron Highland", 
+                        "name_components": {
+                            "first": "Ron", 
+                            "last": "Highland"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2330
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 052": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Ty Dragoo", 
+                        "name_components": {
+                            "first": "Ty", 
+                            "last": "Dragoo"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 713
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Dick Jones", 
+                        "name_components": {
+                            "first": "Dick", 
+                            "last": "Jones"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2799
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 053": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Annie Tietze", 
+                        "name_components": {
+                            "first": "Annie", 
+                            "last": "Tietze"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 966
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "T.J. Foy", 
+                        "name_components": {
+                            "first": "T.J.", 
+                            "last": "Foy"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1971
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 054": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Ann E. Mah", 
+                        "name_components": {
+                            "first": "Ann", 
+                            "last": "Mah", 
+                            "middle": "E."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 717
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ken Corbet", 
+                        "name_components": {
+                            "first": "Ken", 
+                            "last": "Corbet"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2072
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 055": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Annie Kuether", 
+                        "name_components": {
+                            "first": "Annie", 
+                            "last": "Kuether"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 989
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "James R. Lord", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Lord", 
+                            "middle": "R."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1150
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 056": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Virgil", 
+                        "name_components": {
+                            "first": "Virgil"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 827
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Lane", 
+                        "name_components": {
+                            "first": "Lane"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 61.4, 
+                    "votes": 1308
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Evan", 
+                        "name_components": {
+                            "first": "Evan"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 16.9, 
+                    "votes": 360
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Shawn M. Powell", 
+                        "name_components": {
+                            "first": "Shawn", 
+                            "last": "Powell", 
+                            "middle": "M."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 21.6, 
+                    "votes": 462
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 057": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John", 
+                        "name_components": {
+                            "first": "John"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 722
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 058": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Harold Lane", 
+                        "name_components": {
+                            "first": "Harold", 
+                            "last": "Lane"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 677
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Cordell Fischer", 
+                        "name_components": {
+                            "first": "Cordell", 
+                            "last": "Fischer"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 554
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 059": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Scott James Barnhart", 
+                        "name_components": {
+                            "first": "Scott", 
+                            "last": "Barnhart", 
+                            "middle": "James"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 363
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Blaine Finch", 
+                        "name_components": {
+                            "first": "Blaine", 
+                            "last": "Finch"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 64.1, 
+                    "votes": 1972
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Bob Fluke", 
+                        "name_components": {
+                            "first": "Bob", 
+                            "last": "Fluke"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 35.8, 
+                    "votes": 1103
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 060": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Don Hill", 
+                        "name_components": {
+                            "first": "Don", 
+                            "last": "Hill"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1393
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 061": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Vivien J. Olsen", 
+                        "name_components": {
+                            "first": "Vivien", 
+                            "last": "Olsen", 
+                            "middle": "J."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 429
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Becky J. Hutchins", 
+                        "name_components": {
+                            "first": "Becky", 
+                            "last": "Hutchins", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2356
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 062": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Steve Lukert", 
+                        "name_components": {
+                            "first": "Steve", 
+                            "last": "Lukert"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 444
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Randy Garber", 
+                        "name_components": {
+                            "first": "Randy", 
+                            "last": "Garber"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2519
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 063": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jerry Henry", 
+                        "name_components": {
+                            "first": "Jerry", 
+                            "last": "Henry"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 554
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 064": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Glen R. Hawkins", 
+                        "name_components": {
+                            "first": "Glen", 
+                            "last": "Hawkins", 
+                            "middle": "R."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 14.4, 
+                    "votes": 346
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Kathy Martin", 
+                        "name_components": {
+                            "first": "Kathy", 
+                            "last": "Martin"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 39.8, 
+                    "votes": 955
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Susie Swanson", 
+                        "name_components": {
+                            "first": "Susie", 
+                            "last": "Swanson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 45.7, 
+                    "votes": 1097
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 065": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Tom Brungardt", 
+                        "name_components": {
+                            "first": "Tom", 
+                            "last": "Brungardt"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 254
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Lonnie G. Clark", 
+                        "name_components": {
+                            "first": "Lonnie", 
+                            "last": "Clark", 
+                            "middle": "G."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 59.4, 
+                    "votes": 464
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Allan Rothlisberg", 
+                        "name_components": {
+                            "first": "Allan", 
+                            "last": "Rothlisberg"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.5, 
+                    "votes": 317
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 066": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Sydney Carlin", 
+                        "name_components": {
+                            "first": "Sydney", 
+                            "last": "Carlin"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 442
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 067": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Tom Phillips", 
+                        "name_components": {
+                            "first": "Tom", 
+                            "last": "Phillips"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2279
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 068": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Tom Moxley", 
+                        "name_components": {
+                            "first": "Tom", 
+                            "last": "Moxley"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1995
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 069": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Gary Swartzendruber", 
+                        "name_components": {
+                            "first": "Gary", 
+                            "last": "Swartzendruber"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 465
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "J.R. Claeys", 
+                        "name_components": {
+                            "first": "J.R.", 
+                            "last": "Claeys"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1583
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 070": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John E Barker", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Barker", 
+                            "middle": "E"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 77.8, 
+                    "votes": 2286
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Brian Huwiler", 
+                        "name_components": {
+                            "first": "Brian", 
+                            "last": "Huwiler"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 22.1, 
+                    "votes": 649
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 071": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Tom Bell", 
+                        "name_components": {
+                            "first": "Tom", 
+                            "last": "Bell"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 46.0, 
+                    "votes": 1565
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Diana Dierks", 
+                        "name_components": {
+                            "first": "Diana", 
+                            "last": "Dierks"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 53.9, 
+                    "votes": 1832
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 072": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Barbara Bunting", 
+                        "name_components": {
+                            "first": "Barbara", 
+                            "last": "Bunting"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 42.2, 
+                    "votes": 1520
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Marc Rhoades", 
+                        "name_components": {
+                            "first": "Marc", 
+                            "last": "Rhoades"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 57.7, 
+                    "votes": 2080
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 073": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Von Peterson", 
+                        "name_components": {
+                            "first": "Von", 
+                            "last": "Peterson"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 394
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Les Mason", 
+                        "name_components": {
+                            "first": "Les", 
+                            "last": "Mason"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3271
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 074": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Don Schroeder", 
+                        "name_components": {
+                            "first": "Don", 
+                            "last": "Schroeder"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2699
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 075": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Keri Ratliff", 
+                        "name_components": {
+                            "first": "Keri", 
+                            "last": "Ratliff"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 490
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Will Carpenter", 
+                        "name_components": {
+                            "first": "Will", 
+                            "last": "Carpenter"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2358
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 076": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Teresa Briggs", 
+                        "name_components": {
+                            "first": "Teresa", 
+                            "last": "Briggs"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 461
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jeffrey B Freeman", 
+                        "name_components": {
+                            "first": "Jeffrey", 
+                            "last": "Freeman", 
+                            "middle": "B"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 31.1, 
+                    "votes": 751
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Peggy L. Mast", 
+                        "name_components": {
+                            "first": "Peggy", 
+                            "last": "Mast", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 68.8, 
+                    "votes": 1663
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 077": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kenneth R. Bratton", 
+                        "name_components": {
+                            "first": "Kenneth", 
+                            "last": "Bratton", 
+                            "middle": "R."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 39.1, 
+                    "votes": 1169
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Kristey S. Williams", 
+                        "name_components": {
+                            "first": "Kristey", 
+                            "last": "Williams", 
+                            "middle": "S."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 60.8, 
+                    "votes": 1820
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 078": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jim Poe", 
+                        "name_components": {
+                            "first": "Jim", 
+                            "last": "Poe"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 337
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ron Ryckman", 
+                        "name_components": {
+                            "first": "Ron", 
+                            "last": "Ryckman"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1645
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 079": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Ed Trimmer", 
+                        "name_components": {
+                            "first": "Ed", 
+                            "last": "Trimmer"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 513
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Larry W. Alley", 
+                        "name_components": {
+                            "first": "Larry", 
+                            "last": "Alley", 
+                            "middle": "W."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1988
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 080": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kasha Kelley", 
+                        "name_components": {
+                            "first": "Kasha", 
+                            "last": "Kelley"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 57.5, 
+                    "votes": 1206
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Andrew Lawson", 
+                        "name_components": {
+                            "first": "Andrew", 
+                            "last": "Lawson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 42.4, 
+                    "votes": 889
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 081": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Lynn Wells", 
+                        "name_components": {
+                            "first": "Lynn", 
+                            "last": "Wells"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 196
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Blake Carpenter", 
+                        "name_components": {
+                            "first": "Blake", 
+                            "last": "Carpenter"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1239
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 082": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Danette Harris", 
+                        "name_components": {
+                            "first": "Danette", 
+                            "last": "Harris"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 331
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Pete DeGraaf", 
+                        "name_components": {
+                            "first": "Pete", 
+                            "last": "DeGraaf"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1980
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 083": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Carolyn Bridges", 
+                        "name_components": {
+                            "first": "Carolyn", 
+                            "last": "Bridges"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 402
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "James Thomas", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Thomas"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1088
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 084": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Gail Finney", 
+                        "name_components": {
+                            "first": "Gail", 
+                            "last": "Finney"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 573
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ray \"Grizzly\" Racobs", 
+                        "name_components": {
+                            "first": "Ray", 
+                            "last": "Racobs", 
+                            "nickname": "Grizzly"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 527
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 085": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Patrick Thorpe", 
+                        "name_components": {
+                            "first": "Patrick", 
+                            "last": "Thorpe"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 347
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Steven Brunk", 
+                        "name_components": {
+                            "first": "Steven", 
+                            "last": "Brunk"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2408
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 086": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jim Ward", 
+                        "name_components": {
+                            "first": "Jim", 
+                            "last": "Ward"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 359
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 087": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Charles Jenney", 
+                        "name_components": {
+                            "first": "Charles", 
+                            "last": "Jenney"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 384
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Mark Kahrs", 
+                        "name_components": {
+                            "first": "Mark", 
+                            "last": "Kahrs"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2308
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 088": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Patricia M. Sloop", 
+                        "name_components": {
+                            "first": "Patricia", 
+                            "last": "Sloop", 
+                            "middle": "M."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 337
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jim Price", 
+                        "name_components": {
+                            "first": "Jim", 
+                            "last": "Price"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 32.1, 
+                    "votes": 380
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Joseph Scapa", 
+                        "name_components": {
+                            "first": "Joseph", 
+                            "last": "Scapa"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 67.8, 
+                    "votes": 803
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 089": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Roderick A. Houston", 
+                        "name_components": {
+                            "first": "Roderick", 
+                            "last": "Houston", 
+                            "middle": "A."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 645
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Frank Chappell", 
+                        "name_components": {
+                            "first": "Frank", 
+                            "last": "Chappell"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 931
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 090": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Steve Huebert", 
+                        "name_components": {
+                            "first": "Steve", 
+                            "last": "Huebert"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2170
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 091": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Eric Henderson", 
+                        "name_components": {
+                            "first": "Eric", 
+                            "last": "Henderson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 35.3, 
+                    "votes": 816
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Gene Suellentrop", 
+                        "name_components": {
+                            "first": "Gene", 
+                            "last": "Suellentrop"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 64.6, 
+                    "votes": 1493
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 092": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John Carmichael", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Carmichael"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 532
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jeremy Alessi", 
+                        "name_components": {
+                            "first": "Jeremy", 
+                            "last": "Alessi"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 63.7, 
+                    "votes": 1055
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jason Paul Dean", 
+                        "name_components": {
+                            "first": "Jason", 
+                            "last": "Dean", 
+                            "middle": "Paul"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 36.2, 
+                    "votes": 600
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 093": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Sammy K. Flaharty", 
+                        "name_components": {
+                            "first": "Sammy", 
+                            "last": "Flaharty", 
+                            "middle": "K."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 319
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "George F. (Joe) Edwards II", 
+                        "name_components": {
+                            "first": "George", 
+                            "last": "Edwards", 
+                            "middle": "F.", 
+                            "nickname": "Joe", 
+                            "suffix": "II"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 45.4, 
+                    "votes": 935
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "John Whitmer", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Whitmer"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 54.5, 
+                    "votes": 1124
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 094": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Mario Goico", 
+                        "name_components": {
+                            "first": "Mario", 
+                            "last": "Goico"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2297
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 095": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Tom Sawyer", 
+                        "name_components": {
+                            "first": "Tom", 
+                            "last": "Sawyer"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 369
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Benny Boman", 
+                        "name_components": {
+                            "first": "Benny", 
+                            "last": "Boman"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 770
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 096": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Brandon Whipple", 
+                        "name_components": {
+                            "first": "Brandon", 
+                            "last": "Whipple"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 397
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Christopher K. Brown", 
+                        "name_components": {
+                            "first": "Christopher", 
+                            "last": "Brown", 
+                            "middle": "K."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 38.7, 
+                    "votes": 368
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Rick Lindsey", 
+                        "name_components": {
+                            "first": "Rick", 
+                            "last": "Lindsey"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 61.2, 
+                    "votes": 581
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 097": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Leslie G. Osterman", 
+                        "name_components": {
+                            "first": "Leslie", 
+                            "last": "Osterman", 
+                            "middle": "G."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 57.0, 
+                    "votes": 816
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Michael E. Walker", 
+                        "name_components": {
+                            "first": "Michael", 
+                            "last": "Walker", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 42.9, 
+                    "votes": 614
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 098": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Eric Bell", 
+                        "name_components": {
+                            "first": "Eric", 
+                            "last": "Bell"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 30.7, 
+                    "votes": 124
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Steven G. Crum", 
+                        "name_components": {
+                            "first": "Steven", 
+                            "last": "Crum", 
+                            "middle": "G."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 69.2, 
+                    "votes": 279
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Steven Anthimides", 
+                        "name_components": {
+                            "first": "Steven", 
+                            "last": "Anthimides"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 897
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 099": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Randy J. Banwart", 
+                        "name_components": {
+                            "first": "Randy", 
+                            "last": "Banwart", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 47.7, 
+                    "votes": 1538
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Dennis E. Hedke", 
+                        "name_components": {
+                            "first": "Dennis", 
+                            "last": "Hedke", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 52.2, 
+                    "votes": 1686
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 100": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John Wallace Willoughby", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Willoughby", 
+                            "middle": "Wallace"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 328
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Dan Hawkins", 
+                        "name_components": {
+                            "first": "Dan", 
+                            "last": "Hawkins"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2331
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 101": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Joe Seiwert", 
+                        "name_components": {
+                            "first": "Joe", 
+                            "last": "Seiwert"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2442
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 102": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Brian E. Davis", 
+                        "name_components": {
+                            "first": "Brian", 
+                            "last": "Davis", 
+                            "middle": "E."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 76.2, 
+                    "votes": 446
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Chris Givan", 
+                        "name_components": {
+                            "first": "Chris", 
+                            "last": "Givan"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 23.7, 
+                    "votes": 139
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jan Pauls", 
+                        "name_components": {
+                            "first": "Jan", 
+                            "last": "Pauls"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 777
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 103": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Ponka-We Victors", 
+                        "name_components": {
+                            "first": "Ponka-We", 
+                            "last": "Victors"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 207
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 104": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Steven R. Becker", 
+                        "name_components": {
+                            "first": "Steven", 
+                            "last": "Becker", 
+                            "middle": "R."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2603
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 105": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Sherry Livingston", 
+                        "name_components": {
+                            "first": "Sherry", 
+                            "last": "Livingston"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 339
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Mark Edward Hutton", 
+                        "name_components": {
+                            "first": "Mark", 
+                            "last": "Hutton", 
+                            "middle": "Edward"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1320
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 106": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Sharon J. Schwartz", 
+                        "name_components": {
+                            "first": "Sharon", 
+                            "last": "Schwartz", 
+                            "middle": "J."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2868
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 107": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Susan L. Concannon", 
+                        "name_components": {
+                            "first": "Susan", 
+                            "last": "Concannon", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3024
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 108": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Steven Johnson", 
+                        "name_components": {
+                            "first": "Steven", 
+                            "last": "Johnson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2686
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 109": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Troy L. Waymaster", 
+                        "name_components": {
+                            "first": "Troy", 
+                            "last": "Waymaster", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3293
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 110": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Travis Couture-Lovelady", 
+                        "name_components": {
+                            "first": "Travis", 
+                            "last": "Couture-Lovelady"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2743
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 111": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "James A. Leiker", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Leiker", 
+                            "middle": "A."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 604
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Sue E. Boldra", 
+                        "name_components": {
+                            "first": "Sue", 
+                            "last": "Boldra", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1551
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 112": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Steve Muehleisen", 
+                        "name_components": {
+                            "first": "Steve", 
+                            "last": "Muehleisen"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 358
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "John Edmonds", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Edmonds"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2299
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 113": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jeremy \"Basil\" Dannebohm", 
+                        "name_components": {
+                            "first": "Jeremy", 
+                            "last": "Dannebohm", 
+                            "nickname": "Basil"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2635
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 114": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Mark Schnittker", 
+                        "name_components": {
+                            "first": "Mark", 
+                            "last": "Schnittker"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 455
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jack Thimesch", 
+                        "name_components": {
+                            "first": "Jack", 
+                            "last": "Thimesch"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2501
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 115": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Mark Low", 
+                        "name_components": {
+                            "first": "Mark", 
+                            "last": "Low"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 257
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ronald W Ryckman Sr.", 
+                        "name_components": {
+                            "first": "Ronald", 
+                            "last": "Ryckman", 
+                            "middle": "W", 
+                            "suffix": "Sr."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1924
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 116": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kyle D Hoffman", 
+                        "name_components": {
+                            "first": "Kyle", 
+                            "last": "Hoffman", 
+                            "middle": "D"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2585
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 117": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John L. Ewy", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Ewy", 
+                            "middle": "L."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 87.5, 
+                    "votes": 2849
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "M.T. Liggett", 
+                        "name_components": {
+                            "first": "M.T.", 
+                            "last": "Liggett"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 12.4, 
+                    "votes": 405
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 118": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Don Hineman", 
+                        "name_components": {
+                            "first": "Don", 
+                            "last": "Hineman"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 3229
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 119": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John E. Thomas", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Thomas", 
+                            "middle": "E."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 216
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Bud Estes", 
+                        "name_components": {
+                            "first": "Bud", 
+                            "last": "Estes"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1157
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 120": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Richard (Rick) Billinger", 
+                        "name_components": {
+                            "first": "Richard", 
+                            "last": "Billinger", 
+                            "nickname": "Rick"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 60.2, 
+                    "votes": 2197
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Adam W. Smith", 
+                        "name_components": {
+                            "first": "Adam", 
+                            "last": "Smith", 
+                            "middle": "W."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 39.7, 
+                    "votes": 1447
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 121": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Gary Smith", 
+                        "name_components": {
+                            "first": "Gary", 
+                            "last": "Smith"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 358
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "S. Mike Kiegerl", 
+                        "name_components": {
+                            "first": "S.", 
+                            "last": "Kiegerl", 
+                            "middle": "Mike"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1611
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 122": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "J. Russell \"Russ\" Jennings", 
+                        "name_components": {
+                            "first": "J.", 
+                            "last": "Jennings", 
+                            "middle": "Russell", 
+                            "nickname": "Russ"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 64.7, 
+                    "votes": 1499
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Stan Rice", 
+                        "name_components": {
+                            "first": "Stan", 
+                            "last": "Rice"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 35.2, 
+                    "votes": 816
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 123": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John Doll", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Doll"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 1382
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 124": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "J. Stephen Alford", 
+                        "name_components": {
+                            "first": "J.", 
+                            "last": "Alford", 
+                            "middle": "Stephen"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 2331
+                }
+            ]
+        }, 
+        "Kansas House of Representatives 125": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Shannon G. Francis", 
+                        "name_components": {
+                            "first": "Shannon", 
+                            "last": "Francis", 
+                            "middle": "G."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 63.4, 
+                    "votes": 1094
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jim Rice", 
+                        "name_components": {
+                            "first": "Jim", 
+                            "last": "Rice"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 36.5, 
+                    "votes": 631
+                }
+            ]
+        }, 
+        "Kansas Senate 035": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Marshall Christmann", 
+                        "name_components": {
+                            "first": "Marshall", 
+                            "last": "Christmann"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 16.7, 
+                    "votes": 1646
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Donald Hobson", 
+                        "name_components": {
+                            "first": "Donald", 
+                            "last": "Hobson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 28.9, 
+                    "votes": 2851
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Nick Reinecker", 
+                        "name_components": {
+                            "first": "Nick", 
+                            "last": "Reinecker"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 5.2, 
+                    "votes": 517
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "James E. Toews", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Toews", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 8.9, 
+                    "votes": 884
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Richard Wilborn", 
+                        "name_components": {
+                            "first": "Richard", 
+                            "last": "Wilborn"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.1, 
+                    "votes": 3949
+                }
+            ]
+        }, 
+        "Kansas Senate 037": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Molly Baumgardner", 
+                        "name_components": {
+                            "first": "Molly", 
+                            "last": "Baumgardner"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 59.9, 
+                    "votes": 4042
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Charlotte O'Hara", 
+                        "name_components": {
+                            "first": "Charlotte", 
+                            "last": "O'Hara"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.0, 
+                    "votes": 2702
+                }
+            ]
+        }, 
+        "Member, State Board of Education 001": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Janet Waugh", 
+                        "name_components": {
+                            "first": "Janet", 
+                            "last": "Waugh"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 8912
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Nancy Klemp", 
+                        "name_components": {
+                            "first": "Nancy", 
+                            "last": "Klemp"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 7821
+                }
+            ]
+        }, 
+        "Member, State Board of Education 003": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "John W. Bacon", 
+                        "name_components": {
+                            "first": "John", 
+                            "last": "Bacon", 
+                            "middle": "W."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 19664
+                }
+            ]
+        }, 
+        "Member, State Board of Education 005": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Sally Cauble", 
+                        "name_components": {
+                            "first": "Sally", 
+                            "last": "Cauble"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 55.1, 
+                    "votes": 15960
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Meg Wilson", 
+                        "name_components": {
+                            "first": "Meg", 
+                            "last": "Wilson"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 44.8, 
+                    "votes": 12972
+                }
+            ]
+        }, 
+        "Member, State Board of Education 007": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kenneth R. Willard", 
+                        "name_components": {
+                            "first": "Kenneth", 
+                            "last": "Willard", 
+                            "middle": "R."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 23906
+                }
+            ]
+        }, 
+        "Member, State Board of Education 009": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Martin Burke", 
+                        "name_components": {
+                            "first": "Martin", 
+                            "last": "Burke"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 42.4, 
+                    "votes": 10691
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Jim Porter", 
+                        "name_components": {
+                            "first": "Jim", 
+                            "last": "Porter"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 57.5, 
+                    "votes": 14492
+                }
+            ]
+        }, 
+        "Secretary of State": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Jean Kurtis Schodorf", 
+                        "name_components": {
+                            "first": "Jean", 
+                            "last": "Schodorf", 
+                            "middle": "Kurtis"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 59822
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Kris Kobach", 
+                        "name_components": {
+                            "first": "Kris", 
+                            "last": "Kobach"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 64.7, 
+                    "votes": 166793
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Scott Morgan", 
+                        "name_components": {
+                            "first": "Scott", 
+                            "last": "Morgan"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 35.2, 
+                    "votes": 90680
+                }
+            ]
+        }, 
+        "State Treasurer": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Carmen Alldritt", 
+                        "name_components": {
+                            "first": "Carmen", 
+                            "last": "Alldritt"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 58570
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Ron Estes", 
+                        "name_components": {
+                            "first": "Ron", 
+                            "last": "Estes"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 220859
+                }
+            ]
+        }, 
+        "United States House of Representatives 001": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "James E. Sherow", 
+                        "name_components": {
+                            "first": "James", 
+                            "last": "Sherow", 
+                            "middle": "E."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 65.6, 
+                    "votes": 8209
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Bryan R. Whitney", 
+                        "name_components": {
+                            "first": "Bryan", 
+                            "last": "Whitney", 
+                            "middle": "R."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 34.3, 
+                    "votes": 4293
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Tim Huelskamp", 
+                        "name_components": {
+                            "first": "Tim", 
+                            "last": "Huelskamp"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 54.9, 
+                    "votes": 42847
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Alan LaPolice", 
+                        "name_components": {
+                            "first": "Alan", 
+                            "last": "LaPolice"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 45.0, 
+                    "votes": 35108
+                }
+            ]
+        }, 
+        "United States House of Representatives 002": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Margie Wakefield", 
+                        "name_components": {
+                            "first": "Margie", 
+                            "last": "Wakefield"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 18337
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Lynn Jenkins", 
+                        "name_components": {
+                            "first": "Lynn", 
+                            "last": "Jenkins"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 69.1, 
+                    "votes": 41850
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Joshua Joel Tucker", 
+                        "name_components": {
+                            "first": "Joshua", 
+                            "last": "Tucker", 
+                            "middle": "Joel"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 30.8, 
+                    "votes": 18680
+                }
+            ]
+        }, 
+        "United States House of Representatives 003": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Kelly Kultala", 
+                        "name_components": {
+                            "first": "Kelly", 
+                            "last": "Kultala"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 68.5, 
+                    "votes": 14189
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Reginald (Reggie)", 
+                        "name_components": {
+                            "first": "Reginald", 
+                            "nickname": "Reggie"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 31.4, 
+                    "votes": 6524
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Kevin Yoder", 
+                        "name_components": {
+                            "first": "Kevin", 
+                            "last": "Yoder"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 47319
+                }
+            ]
+        }, 
+        "United States House of Representatives 004": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Perry L. Schuckman", 
+                        "name_components": {
+                            "first": "Perry", 
+                            "last": "Schuckman", 
+                            "middle": "L."
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 100.0, 
+                    "votes": 11408
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Mike Pompeo", 
+                        "name_components": {
+                            "first": "Mike", 
+                            "last": "Pompeo"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 62.6, 
+                    "votes": 43564
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Todd Tiahrt", 
+                        "name_components": {
+                            "first": "Todd", 
+                            "last": "Tiahrt"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 37.3, 
+                    "votes": 25977
+                }
+            ]
+        }, 
+        "United States Senate": {
+            "classification": "candidate_preference", 
+            "results": [
+                {
+                    "candidate": {
+                        "ballot_name": "Chad Taylor", 
+                        "name_components": {
+                            "first": "Chad", 
+                            "last": "Taylor"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 53.2, 
+                    "votes": 35067
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Patrick Wiesner", 
+                        "name_components": {
+                            "first": "Patrick", 
+                            "last": "Wiesner"
+                        }, 
+                        "party": "D"
+                    }, 
+                    "percent": 46.7, 
+                    "votes": 30752
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Pat Roberts", 
+                        "name_components": {
+                            "first": "Pat", 
+                            "last": "Roberts"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 48.0, 
+                    "votes": 127089
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "D.J. Smith", 
+                        "name_components": {
+                            "first": "D.J.", 
+                            "last": "Smith"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 5.7, 
+                    "votes": 15288
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Milton Wolf", 
+                        "name_components": {
+                            "first": "Milton", 
+                            "last": "Wolf"
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 40.7, 
+                    "votes": 107799
+                }, 
+                {
+                    "candidate": {
+                        "ballot_name": "Alvin E. Zahnter", 
+                        "name_components": {
+                            "first": "Alvin", 
+                            "last": "Zahnter", 
+                            "middle": "E."
+                        }, 
+                        "party": "R"
+                    }, 
+                    "percent": 5.3, 
+                    "votes": 14164
+                }
+            ]
+        }
+    }, 
+    "election_date": "2014-08-05", 
+    "election_name": "2014 Primary", 
+    "origin_document": "http://election-results.s3.amazonaws.com/ks/2014_Primary_Election_Results_OFFICIAL.pdf"
+}
